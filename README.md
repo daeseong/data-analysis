@@ -1,3 +1,4 @@
 # data-analysis
 
-using the auto-mpg dataset
+performing PCA and tSNE on autompg dataset.
+Using clustering techniques for credit card customer dataset.
